@@ -229,6 +229,10 @@ The Only requirement being an enthusiastic heart to learn.
     >-   ***World’s Biggest Hackathon and Open Innovation model***, an initiative by Ministry of HRD 4th edition of highly successful.
     >-   Smart India Hackathon initiative Involves 2 Lakh+ students with 57,000+ ideas from 2200+ institutions against 530+ problem statements provided by 120+ organizations from across India.
     >-   Be part of World’s biggest Open Innovation Movement Opportunity to work with some of the best talents in the country
+    
+    ### 2 - DSC WOW(Developer Student Club) [link](https://dscwow.tech/) [LinkedIn](https://www.linkedin.com/in/vishnuvasan-srinivasan-0b2012194/)
+    >- Great Hackathon experience for newbies and professionals as well.
+    >- Enroll yourself and start coding.
 
 - ## :high_brightness: Open Source Event
 
